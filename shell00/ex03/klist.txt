@@ -1,0 +1,14 @@
+Credentials cache: API:5A9380FC-1A07-423D-AE0E-73DBF4164D19
+        Principal: aprosper@42LAUSANNE.CH
+    Cache version: 0
+
+Server: krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
+Client: aprosper@42LAUSANNE.CH
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 351
+Auth time:  Jul  8 09:17:13 2021
+End time:   Jul  8 19:17:13 2021
+Renew till: Jul 15 09:17:13 2021
+Ticket flags: enc-pa-rep, pre-authent, initial, renewable, proxiable, forwardable
+Addresses: addressless
+
